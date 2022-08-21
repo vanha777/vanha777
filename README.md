@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vanha777, a 25 years old, qualified light-vehicle mechanics and 12-24 volts electrician.
-- 👀 I’m interested in mechanicsm of things.
-- 🌱 I’m currently learning solidity and Plutus. 
-- 💞️ I’m looking to collaborate on any blockchain projects.
+- 👋 Hi, I’m @vanha777, a 25 years old with half a decade of experiences in light-vehicle electronics and mechanical repairing.
+- 👀 I’m interested in building useful stuff for everyday people, a passion to learn and intergrate things from software to hardware ...
+- 🌱 I'm opperating an IOT Project/Bussiness that include intergrate software into hardware, marketing and sales, currently investing mine time and money into next Blockchain Project, i have  Solidity intermediate-skill, Python intermediate-skill, Plutus beginer-skill. Mine Ability: A team-player, fast-learner and extremely reliable due to experiences in real-bussiness.
+- 💞️ I’m looking for an opportunity to help you turn your ideas into reality, 
 - 📫 How to reach me ...
 
 <!---
